@@ -1,0 +1,6 @@
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Entity\bin\Debug\Git.Storage.Entity.dll
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Entity\bin\Debug\Git.Storage.Entity.pdb
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Entity\bin\Debug\Git.Framework.ORM.dll
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Entity\obj\Debug\Git.Storage.Entity.csprojResolveAssemblyReference.cache
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Entity\obj\Debug\Git.Storage.Entity.dll
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Entity\obj\Debug\Git.Storage.Entity.pdb

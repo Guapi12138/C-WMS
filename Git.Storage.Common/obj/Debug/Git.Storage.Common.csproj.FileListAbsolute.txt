@@ -1,0 +1,13 @@
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Common\bin\Debug\Git.Storage.Common.dll
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Common\bin\Debug\Git.Storage.Common.pdb
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Common\bin\Debug\Aspose.Cells.dll
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Common\bin\Debug\Git.Framework.DataTypes.dll
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Common\bin\Debug\Git.Framework.Json.dll
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Common\bin\Debug\NPOI.dll
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Common\bin\Debug\NPOI.OOXML.dll
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Common\bin\Debug\NPOI.OpenXml4Net.dll
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Common\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Common\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Common\obj\Debug\Git.Storage.Common.csprojResolveAssemblyReference.cache
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Common\obj\Debug\Git.Storage.Common.dll
+D:\源码\吉特仓库管理系统\gitwms-master\Git.Storage.Common\obj\Debug\Git.Storage.Common.pdb
